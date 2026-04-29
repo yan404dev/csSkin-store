@@ -1,6 +1,8 @@
 # Skin Store - Frontend & Backend
 
-Este repositório contém a solução completa para uma loja de skins. O projeto foi dividido em duas partes: Frontend e Backend, desenvolvidos com **Next.js** (Frontend) e **Nestjs** (Backend).
+![Preview](./csskin-front/public/preview.png)
+
+Este repositório contém a solução completa para uma loja de skins de CS:GO. O projeto foi dividido em duas partes: Frontend e Backend, desenvolvidos com **Next.js** (Frontend) e **NestJS** (Backend).
 
 ## Tecnologias
 
